@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Claude Belanger photo]]></title>
+        <description><![CDATA[Claude Belanger photo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 18:12:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photography]]></title>
+            <description><![CDATA[<article><h1>Photography</h1><p>Images</p></article>]]></description>
+            <link>undefinedphotography/index.html</link>
+            <guid isPermaLink="false">8bf6d552-cb32-48f8-8a37-1c9cfaefc6a5</guid>
+            <pubDate>Wed, 04 Nov 2015 18:11:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
