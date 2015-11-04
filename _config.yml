@@ -1,0 +1,23 @@
+name: Claude Belanger photo
+favicon: null
+layout_spectrum: 0.08011898375116289
+typography_spectrum: 0.9751426305156201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3712389871943742
+  lightness: 0.10918018640950322
+  saturation: 0.6002763283904642
+  rhythmicContrast: 0.48496770998463035
+purpose: []
